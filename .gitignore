@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+moodboard/
+palette.png
+*.jpg
+*.jpeg
+*.webp
+!thoughtful-design/scripts/**
